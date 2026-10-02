@@ -1,0 +1,68 @@
+/* Style applied by element/tag */
+body {
+    background-color: #e8eef5;
+    font-family: Arial, sans-serif;
+    color: #222222;
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Style applied by ID */
+#about {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+/* Style applied by class */
+.interests {
+    background-color: #d9e8f5;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+/* Another class */
+.future {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+/* Centered element */
+header {
+    text-align: center;
+    padding: 30px;
+}
+
+/* Different text color and font size */
+h1 {
+    color: #174a7e;
+    font-size: 40px;
+}
+
+/* Second text color and font size */
+h2 {
+    color: #286090;
+    font-size: 26px;
+}
+
+/* Class-based text styling */
+.subtitle {
+    color: #555555;
+    font-size: 20px;
+}
+
+/* Link styling */
+a {
+    color: #b22222;
+    font-size: 18px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+}
